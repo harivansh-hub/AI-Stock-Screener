@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+credentials.env
+.env
+build/
+dist/
+*.exe
+*.zip
+*.mp4
+*.spec
